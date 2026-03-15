@@ -166,6 +166,7 @@ The simulation produced **12 autonomous teams**, each with a complete project pr
 |---|------|------|------------------|
 | <img src="https://github.com/YichengYang-Ethan.png" width="60"/> | **[Yicheng Yang](https://github.com/YichengYang-Ethan)** | Simulation & Evaluation | 50 agent personas, Phase D poster generation, Phase E judge Q&A, hidden taste/bias system, matching engine |
 | <img src="https://github.com/CLCK0622.png" width="60"/> | **[Kevin Zhong](https://github.com/CLCK0622)** | Infrastructure & Frontend | Core framework, LLM client, context management, orchestrator, replay viewer, voting arena, GPU deployment |
+| <img src="https://github.com/csjimmylu.png" width="60"/> | **[Junyu Lu](https://github.com/csjimmylu)** | Backend & Agentic Orchestration | 50-agent interaction design, backend logic, social simulation & scaling |
 
 ---
 
